@@ -1,3 +1,7 @@
+#In my HP commercial laptop Win10, I wrote [ Simple Deep Learning - LSTM algorithm in R Language ] with R Language with RStudio development tool. 
+#Under Windows 10.
+#Creatd by Tommas Huang 2019-06-18
+
 install.packages("tensorflow")
 install.packages("keras")
 install.packages("rlist")
